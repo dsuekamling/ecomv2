@@ -14,7 +14,7 @@ class Header extends React.Component {
 
     // Check if the user is using a mobile device
     if (
-      /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
+      /Android|webOS|iPhone|iPad|iPod|iPad Pro|BlackBerry|MacOS|IEMobile|Opera Mini/i.test(
         navigator.userAgent
       )
     ) {
