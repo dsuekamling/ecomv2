@@ -1,88 +1,89 @@
 export const prodarray = [
 	{
-	  productName: "Zeus Board",
+	  productName: "Black Deck Board",
 	  productTag: "surfboards",
 	  productURL: "/productOne.jpg",
-	  productDesc: "The CI team calls the Zeus “A quick and loose all-around performance shortboard. It is a great board at its current price point.",
+	  productDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eget sapien vel ipsum venenatis sollicitudin.",
 	  price: '600'
 	},
 	{
-	  productName: "Taco Grinder",
+	  productName: "Wooden Surfer",
 	  productTag: "surfboards",
 	  productURL: "/productTwo.jpg",
-	  productDesc: "Originating as a board for navigating long barrels in Mexico, the Taco Grinder is a direct result of CI team needs and experiments.",
+	  productDesc: "Sed varius dolor quis lacus cursus, a hendrerit nulla rhoncus. Praesent quis magna vel arcu semper congue.",
 	  price: '400'
 	},
 	{
 	  productName: "Black and White",
 	  productTag: "surfboards",
 	  productURL: "/productThree.jpg",
-	  productDesc: "A high performance shortboard designed for down the line speed and easy rail-to-rail transitions. Performance is key with this board",
+	  productDesc: "Nam tincidunt purus quis elit volutpat, ac dignissim tellus malesuada. Sed consectetur quam eu velit.",
 	  price: '650'
 	},
 	{
-	  productName: "Twin Fin",
+	  productName: "Blue Justice",
 	  productTag: "surfboards",
 	  productURL: "/productFour.jpg",
-	  productDesc: "The Twin Fin has a retro 70’s feel, with updated performance qualities. It was originally designed and hand shaped by Britt Merrick.",
+	  productDesc: "Vivamus id ligula ut arcu sodales pharetra ut ac velit. Maecenas bibendum, nunc ut tristique commodo.",
 	  price: '720'
 	},
 	{
-	  productName: "High Five",
+	  productName: "Striped Crusier",
 	  productTag: "surfboards",
 	  productURL: "/productFive.jpg",
-	  productDesc: "The High 5 was cooked up by CI staff to be fun and forgiving but with performance sprinkled in. Designed to be a quicker and nimbler.",
+	  productDesc: "Pellentesque commodo orci vel purus interdum, sed fringilla mauris eleifend. Donec eget vestibulum purus.",
 	  price: '515'
 	},
 	{
-	  productName: "Bonzer shelter",
+	  productName: "Red And Black",
 	  productTag: "surfboards",
 	  productURL: "/productSix.jpg",
-	  productDesc: "Since 1969 only a few miles and some of California’s best point breaks separated Al Merrick and The Campbell Brothers a design offering.",
+	  productDesc: "Donec sit amet arcu vitae mauris suscipit luctus in eu neque. Fusce eget tortor ac diam.",
 	  price: '40'
 	},
 	{
-	  productName: "Rail Sleeve Tee",
+	  productName: "Surfing Tee",
 	  productTag: "shirts",
 	  productURL: "/productSeven.jpg",
-	  productDesc: "Long sleeves for long arms. Keep it comfy and keeping it cool. 100% Premium Ultra Soft Cotton, 100% organic farbic fibers. Top notch.",
+	  productDesc: "Fusce pharetra interdum felis, vel iaculis turpis accumsan ac. Vestibulum at nunc ut nunc commodo.",
 	  price: '30'
 	},
 	{
-	  productName: "Stamped Flag Tee",
+	  productName: "Sleeved Tee",
 	  productTag: "shirts",
 	  productURL: "/productEight.jpg",
-	  productDesc: "Clean, classic, comfortable, cool. 100% Premium Ultra Soft Cotton. Support the brand that has brought you so many of your favorite boards.",
+	  productDesc: "Sed commodo tincidunt orci, eget euismod leo dapibus vel. In viverra varius nulla, quis tincidunt velit.",
 	  price: '35'
 	},
 	{
-	  productName: "Clear Hex Tank Top",
+	  productName: "Croc Top",
 	  productTag: "shirts",
 	  productURL: "/productNine.jpg",
-	  productDesc: "100% cotton premium slim fit tee that allows you to shred the waves like nothing before. Great for protection from big or small scratches.",
+	  productDesc: "Quisque feugiat orci eu diam lobortis bibendum. Morbi a lobortis elit. Praesent et elit ut nisl pretium.",
 	  price: '45'
 	},
 	{
-	  productName: "Old Skool Pro",
+	  productName: "Surfers Kicks",
 	  productTag: "shoes",
 	  productURL: "/productTen.jpg",
-	  productDesc: "The Old Skool Pro, a Vans classic upgraded for enhanced performance, features suede, canvas, and leather uppers, single-wrap foxing tape.",
+	  productDesc: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla euismod cursus purus.",
 	  price: '68'
 	},
 	{
-	  productName: "Slip-on",
-	  productTag: "shoes",
-	  productURL: "/productEleven.jpg",
-	  productDesc: "The Classic Slip-On has a low profile, slip-on canvas upper with all-over checker print, elastic side accents.",
-	  price: '52'
-	},
-	{
-		productName: "OT Authentic",
+		productName: "Yellow Vans",
+		productTag: "shoes",
+		productURL: "/productEleven.jpg",
+		productDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nulla at dignissim iaculis.",
+		price: '52'
+	  },
+	  {
+		productName: "Slip on Summer",
 		productTag: "shoes",
 		productURL: "/productTwelve.jpg",
-		productDesc: "The Outdoors Authentic combines the original and now iconic Vans low top style with sturdy canvas uppers, an allover print, and metal eyelets.",
+		productDesc: "Pellentesque ac lacus ut ipsum vestibulum maximus. Ut ut tristique massa. Mauris in est vel est semper ultricies.",
 		price: '63'
 	  }
-]
+	]	  
+
 	  
   
