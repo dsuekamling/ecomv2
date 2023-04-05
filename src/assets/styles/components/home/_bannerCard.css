@@ -38,7 +38,7 @@
 .BannerCard__button--left,
 .BannerCard__button--right {
   text-decoration: none;
-  color: white;
+  color: rgb(255, 0, 0);
 }
 
 .BannerCard__button--left {
@@ -48,7 +48,7 @@
 }
 
 .BannerCard__button--right {
-  border: solid 1px white;
+  border: solid 1px black;
   padding: calc(1em - 1px);
 }
 
@@ -127,7 +127,7 @@
   .BannerCard__button--left,
   .BannerCard__button--right {
     text-decoration: none;
-    color: white;
+    color: rgb(255, 0, 0);
   }
   
   .BannerCard__button--left {
@@ -137,7 +137,7 @@
   }
   
   .BannerCard__button--right {
-    border: solid 1px white;
+    border: solid 1px black;
     padding: calc(1em - 1px);
   }
 }
