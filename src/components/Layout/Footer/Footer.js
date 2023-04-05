@@ -14,8 +14,8 @@ function Footer () {
 
       {/* Company name and copyright */}
       <div className="Footer__copyright">
-        <p  className="Footer__highlightText" >SURFS UP</p>
-        <p className="Footer__text">&copy; Copyright 2023 Surfs Up Inc.
+        <p  className="Footer__highlightText" >POP Shop</p>
+        <p className="Footer__text">&copy; Copyright 2023 POP Shop Inc.
         </p>
         <p className="Footer__text">All rights reserved.</p>
       </div>

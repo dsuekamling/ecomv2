@@ -9,7 +9,7 @@ function MapCard () {
       {/* Render MapCard content container with class "MapCard__card" */}
       <div className="MapCard__card">
         {/* Render title with class "MapCard__title" */}
-        <p className="MapCard__title">Surfs Up Shop</p>
+        <p className="MapCard__title">POP Shop</p>
         {/* Render address with class "MapCard__address" */}
         <p className="MapCard__address">425 El Dorado Dr,</p>
         {/* Render city and state with class "MapCard__address" */}

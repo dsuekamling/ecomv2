@@ -16,20 +16,20 @@ function Home () {
       {/* // Render the BannerCard component with surfboard image and title/description */}
       <BannerCard 
         image={surfBoards}
-        title="Channel Islands Surfboard"
-        descr="Surfer surfing"
+        title="Marvel POPs"
+        descr="Collect Them All"
       />
       {/* // Render the BannerCard component with shoes image and title/description */}
       <BannerCard 
         image={shoes}
-        title="Popular shoes brands"
-        descr="Guy jumping with shoes on"
+        title="Popular POPs"
+        descr="Fortnite"
       />
       {/* // Render the BannerCard component with shirts image and title/description */}
       <BannerCard 
         image={shirts}
-        title="Great Quality shirts"
-        descr="Sweaters stacked on top of each other"
+        title="Variety Of POPs"
+        descr="Lots of Different POPs"
       />
     </div>
   );

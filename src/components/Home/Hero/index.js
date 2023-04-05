@@ -58,9 +58,9 @@ function Hero () {
 
       {/* Slider text */}
       <div className="Slider__text">
-        <p className="Slider__header">ENJOY THE WAVES ENTIRELY</p>
-        <p className="Slider__header">DIFFERENTLY WITH</p>
-        <p className="Slider__header">SURFS UP</p>
+        <p className="Slider__header">Explore The World Of POP</p>
+        <p className="Slider__header">Differently with</p>
+        <p className="Slider__header">POP Shop</p>
       </div>
 
       {/* Left arrow */}
