@@ -10,9 +10,6 @@
   padding-left: 1em;
 }
 
-.MapCard__image {
-  width: 100%;
-}
 
 .MapCard__title {
   padding: 3.4em 0 2em 0;
@@ -28,9 +25,6 @@
 }
 
 @media(min-width: 450px) {  
-  .MapCard__image {
-    width: 100%;
-  }
 
   .MapCard__title {
     padding: 3.4em 0 2em 0;
@@ -51,14 +45,11 @@
   }
   
   .MapCard__card {
-    background-color: #b0b4bf;
+    background-color: #4d76e6;
     padding-bottom: 2em;
     padding-left: 1em;
   }
   
-  .MapCard__image {
-    width: 100%;
-  }
   
   .MapCard__title {
     padding: 3.4em 0 2em 0;
