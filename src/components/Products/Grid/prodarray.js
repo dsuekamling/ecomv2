@@ -1,4 +1,4 @@
-export const prodarray = [
+export const productarray = [
 	{
 	  productName: "Pooh POP",
 	  productURL: "/productOne.jpg",

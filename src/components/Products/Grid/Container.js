@@ -1,6 +1,6 @@
 // import axios from 'axios'; // importing axios library to make HTTP requests
 import ItemCard from "./ItemCard/ItemCard"; // importing ItemCard component
-import { prodarray } from './prodarray'; // importing product array data
+import { productarray } from './prodarray'; // importing product array data
 import React, { useState } from "react";
 
 const ProductGrid = () => {
@@ -9,7 +9,7 @@ const ProductGrid = () => {
   const [searchPrice, setSearchPrice] = useState(""); // creating state for search price and initializing it as an empty string
   
   // filtering the product array based on search term and price
-  const filteredprodarray = prodarray.filter((product) => {
+  const filteredproductarray = productarray.filter((product) => {
     return (
       product.productName.toLowerCase().includes(searchTerm.toLowerCase()) && // checking if the product name includes the search term
       (searchPrice === "" || product.price <= parseInt(searchPrice)) // checking if the product price is less than or equal to the search price
@@ -34,7 +34,7 @@ const ProductGrid = () => {
         />
       </div>
       <div className="ProductGrid">
-        {filteredprodarray.map((product) => (
+        {filteredproductarray.map((product) => (
           <ItemCard
             key={product.productName} // assigning the key as product name
             src={require(`../../../assets/img${product.productURL}`)} // using require to load the image dynamically
